@@ -18,7 +18,7 @@ class Branch {
 	}
 	
 	public void create() {
-		
+		System.out.println("Create Feature Branch");
 	}
 	
 }
