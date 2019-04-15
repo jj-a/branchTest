@@ -21,4 +21,12 @@ class Branch {
 		System.out.println("Create Feature Branch");
 	}
 	
+	public void add1() {
+		System.out.println("Add push 1");
+	}
+	
+	public void add1(int num) {
+		System.out.println("Add push 1-1");
+	}
+	
 }
