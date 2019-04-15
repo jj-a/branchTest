@@ -25,4 +25,8 @@ class Branch {
 		System.out.println("Add push 1");
 	}
 	
+	public void add3() {
+		System.out.println("Add push 3");
+	}
+	
 }
