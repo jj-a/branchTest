@@ -15,18 +15,22 @@ class Branch {
 
 	public Branch() {
 		System.out.println("Start Branch Test");
+		System.out.println("석준' 수정");
 	}
 	
 	public void create() {
 		System.out.println("Create Feature Branch");
+		System.out.println("석준' 수정");
 	}
 	
 	public void add1() {
 		System.out.println("Add push 1");
+		System.out.println("석준' 수정");
 	}
 	
 	public void add1(int num) {
 		System.out.println("Add push 1-1");
+		System.out.println("석준' 수정");
 	}
 	
 }
