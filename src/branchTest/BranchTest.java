@@ -14,19 +14,19 @@ public class BranchTest {
 class Branch {
 
 	public Branch() {
-		System.out.println("Start Branch Test");
+		System.out.println("Start Branch Test 테스트");
 	}
 	
 	public void create() {
-		System.out.println("Create Feature Branch");
+		System.out.println("Create Feature Branch 테스트");
 	}
 	
 	public void add1() {
-		System.out.println("Add push 1");
+		System.out.println("Add push 1 테스트");
 	}
 	
 	public void add1(int num) {
-		System.out.println("Add push 1-1");
+		System.out.println("Add push 1-1 테스트");
 	}
 	
 }
